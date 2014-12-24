@@ -10,7 +10,6 @@ android {
         targetCompatibility JavaVersion.VERSION_1_7
     }
     defaultConfig {
-        applicationId "de.devland.masterpassword.shared"
         minSdkVersion 9
         targetSdkVersion 21
         versionCode 1
